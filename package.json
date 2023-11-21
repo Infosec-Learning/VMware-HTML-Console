@@ -1,0 +1,22 @@
+{
+  "name": "vmware-html-console",
+  "version": "2.2.0",
+  "description": "The VMware HTML Console SDK helps you add basic plugin-independent virtual machine console functionality to an existing web user interface running on VMware vSphere or vCloud Director. ",
+  "main": "wmks.min.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Infosec-Learning/VMware-HTML-Console.git"
+  },
+  "author": "VMware, Inc.",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Infosec-Learning/VMware-HTML-Console/issues"
+  },
+  "homepage": "https://github.com/Infosec-Learning/VMware-HTML-Console#readme"
+}
